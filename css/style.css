@@ -157,12 +157,17 @@ img {
   column-gap: 24px;
 }
 
+.portfolio-wrapperr {
+  padding: 32px 0px;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+  border-bottom: 1px solid #e7e9fc;
+}
 .portfolio-item {
   width: calc((100% - 24px * 2) / 3);
 }
 
 .portfolio-img {
-  margin-bottom: 32px;
 }
 .portfolio-content,
 .portfolio-subtitle {
